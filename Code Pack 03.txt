@@ -1,0 +1,20 @@
+1. Proposta da Variavel
+
+R: Alterar os dados sempre que haja necessidade.
+
+
+2. Elaborada a declaração das variavéis
+
+R: Nome: Caracter
+   CPF: Inteiro
+   RG: Inteiro
+   Altura: Real
+   Endereço: Caracter
+
+3. Utilizado o comando de atribuição
+
+R: Nome: <- "Maria"//
+   CPF: <- "00000000000"//
+   RG: <- "1234567"//
+   Altura: <- "1.78"//
+   Endereço: <- "Rua, A. Nº 00"//
