@@ -1,0 +1,12 @@
+Algoritmo que representa um cadastro.
+
+1. Nome
+2. CPF
+3. RG
+4. Idade
+5. Peso
+6. Endereço
+7. Cidade
+8. Nome do Pai
+9. Nome da Mãe
+10. Renda Bruta
