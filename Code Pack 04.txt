@@ -1,12 +1,37 @@
-Algoritmo que representa um cadastro.
+Algoritmo "Cadastro"
 
-1. Nome
-2. CPF
-3. RG
-4. Idade
-5. Peso
-6. Endereço
-7. Cidade
-8. Nome do Pai
-9. Nome da Mãe
-10. Renda Bruta
+Var
+ Nome: Caracter
+ CPF: inteiro
+ RG: Inteiro
+ Idade: Inteiro
+ Peso: Real
+ Endereco: Caracter
+ Cidade: Caracter
+ Pai: Caracter
+ Mae: Caracter
+ Renda_bruta: Real
+Inicio
+
+Escreva ("Digite Seu Nome:")
+Leia (Nome)
+Escreva ("Digite Seu CPF:")
+Leia (CPF)
+Escreva ("Digite Seu RG:")
+Leia (RG)
+Escreva ("Digite Sua Idade")
+Leia (Idade)
+Escreva ("Digite Seu Peso")
+Leia (Peso)
+Escreva ("Digite Seu Endereço")
+Leia (Endereco)
+Escreva ("Digite sua Cidade")
+Leia (Cidade)
+Escreva ("Digite o Nome Do Seu Pai")
+Leia (Pai)
+Escreva ("Digite o Nome Da Sua Mãe")
+Leia (Mae)
+Escreva ("Digite a Sua Renda Bruta")
+Leia (Renda_bruta)
+
+Fimalgoritmo
